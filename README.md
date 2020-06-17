@@ -5,7 +5,7 @@
 #### ====================== Package Installation ====================
 
 => torch :- pip install torch            
-****// May not work for you then can ask me via comment or can check on internet \\
+****// May not work for you then can ask me via comment or can check on internet \\\\
 
 => numpy :- pip install numpy
 
