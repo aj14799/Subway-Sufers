@@ -1,6 +1,6 @@
 # Subway-Sufers
 
-## Decent all time favourite android game with Python using torch, numpy, Variable, keyboard, pyautogui, pytesseract, collections, resize 
+## Decent all time favourite android game on Python using torch, numpy, Variable, keyboard, pyautogui, pytesseract, collections, resize 
 
 #### ====================== Package Installation ====================
 
