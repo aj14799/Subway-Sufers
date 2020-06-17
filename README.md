@@ -2,7 +2,7 @@
 
 ## Decent all time favourite android game on Python using torch, numpy, Variable, keyboard, pyautogui, pytesseract, collections, resize 
 
-##Buliding AI (Artificial Intellegence to make and android game using python)
+## *Buliding AI (Artificial Intellegence to make and android game using python)
 
 #### ====================== Package Installation ====================
 
